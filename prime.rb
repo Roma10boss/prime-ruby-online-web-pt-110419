@@ -7,4 +7,6 @@ prime_flag = TRUE
     break
   end
   x += 1 
+else 
+  TRUE
 end
